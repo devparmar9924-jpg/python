@@ -1,0 +1,5 @@
+f = open("student.txt", "w")
+f.write("My name is Dev\n")
+f.write("I am learning Python")
+f.close()
+print("Data written successfully")
